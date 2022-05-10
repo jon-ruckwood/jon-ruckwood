@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Talks 
+
+### 📆 Tue 10th May 2022 – Devoxx UK – The Zen School of GitHub Actions
+
+* Resources and slides 👉 [`jon-ruckwood/devoxx-2022`](https://github.com/jon-ruckwood/devoxx-2022/#readme)
+
 <!--
 **jon-ruckwood/jon-ruckwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
