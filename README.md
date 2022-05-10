@@ -2,7 +2,7 @@
 
 ## Talks 
 
-### 📆 Tue 10th May 2022 – Devoxx UK – The Zen School of GitHub Actions
+### 📆 Wed 11th May 2022 – Devoxx UK – The Zen School of GitHub Actions
 
 * Resources and slides 👉 [`jon-ruckwood/devoxx-2022`](https://github.com/jon-ruckwood/devoxx-2022/#readme)
 
